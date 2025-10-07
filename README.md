@@ -1,0 +1,2 @@
+# newsmanagementsystem
+تعليمات تشغيل المشروع:
